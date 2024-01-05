@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R1nex1
-- 👀 I’m interested in Powerlifting, coding, D&D, Tabletop Gaming, Gaming, CATS, Black and Death Metal, anime and hiking.
-- 🌱 I’m currently learning CS50 Python
+- 👀 I’m interested in Powerlifting, coding, D&D, Tabletop Gaming, Gaming, CATS, Black and Death Metal and hiking.
+- 🌱 I’m currently learning CS50
 - 📫 How to reach me kaspar.shanin@gmail.com
 
 <!---
